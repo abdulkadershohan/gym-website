@@ -158,34 +158,7 @@ nav .menu-btn,
   color: #ffffff;
   border: 2px solid #FF1414;
 }
-.header-heading{
-  color: #FFFFFF;
-  text-align: center;
-  letter-spacing: 7px;
-  position: absolute;
-  top: 33%;
-  width: 100%;
 
-  /*
-  font-family: "Lato";
-  font-size: 40px;
-  letter-spacing: 5px;
-  color: #FFFFFF;
-  position: absolute;
-  top: 40%;
-  width: 100%;
-  text-align: center;
-  */
-}
-
-.details{
-  margin-top: -35px;
-  color: gray;
-  font-family: "Times New Roman";
-  letter-spacing: normal;
-  font-size: 1.7rem;
-
-}
 #features{
   width:100%;
   height:120vh;
