@@ -509,6 +509,11 @@ nav .menu-btn,
     top: 50%;
     transform: translate(-50%,-50%);
   }
+  .header-heading{
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+  }
   .about-image{
     display:none;
   }
@@ -547,6 +552,13 @@ nav .menu-btn,
   .pr-heading{
     width:60%;
   }
+  .header-heading{
+    width:60%;
+  }
+  .header-heading h1{
+    font-size: 3rem;
+  }
+
 }
 
 @media(max-width:1100px){.menu-icon{
